@@ -35,3 +35,8 @@ Determinar las horas de particpacion de un proyecto y observar los diferentes ro
 
 Empresas y el Estado actual de la tecnologia
 Evaluar si la empresa esta en riesgo dado el auge de nuevas tecnologias
+
+Realidad Aumentada para expociciones en musesos con el fin de mostrar mas informacion a los visitantes como, informacion de la obra ubicacion de una obra en especifico, informacion en multiples lenguajes.
+
+Salva guatemala. un proyecto social en base de una red social en el cual los usuarios generan eventos donde se motiva al ciudadano a participar ayudano en obras de caridad o obras de beneficio para comunidad espefica, los usuarios son invitados en base a la zona en que residen. 
+
