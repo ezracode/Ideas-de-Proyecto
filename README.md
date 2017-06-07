@@ -40,3 +40,4 @@ Realidad Aumentada para expociciones en musesos con el fin de mostrar mas inform
 
 Salva guatemala. un proyecto social en base de una red social en el cual los usuarios generan eventos donde se motiva al ciudadano a participar ayudano en obras de caridad o obras de beneficio para comunidad espefica, los usuarios son invitados en base a la zona en que residen. 
 
+POS Virtual.  La idea es con realidad aumentada crear un POS Virtual que permita realizar transacciones en reemplazo del POS fisico.  La idea es crea un aplicacion movil que reemplaze la tarjeta de credito y por medio de blockchain haga las validaciones necesarias para realizar la compra.
